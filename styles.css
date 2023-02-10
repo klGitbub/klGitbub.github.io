@@ -1,0 +1,10 @@
+.section {
+    background-color: red;
+    width: 1700px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 50px;
+    color: blue;
+    font-family: Helvetica, Arial, Sans-serif;
+    font-size: 20px;
+};
